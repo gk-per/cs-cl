@@ -17,8 +17,7 @@ https://arxiv.org/abs/2306.15595 - Extending Context Window of Large Language Mo
 - Discusses context window sizing and novel methods for increasing it
 
 https://arxiv.org/pdf/2306.13213.pdf - Visual Adversarial Examples Jailbreak Large Language Models
-- Why ChatGPT probably won't let you upload images anytime soon, even though it totally could
---- 
+
 https://arxiv.org/abs/2307.03534 - # Quantifying the perceptual value of lexical and non-lexical channels in speech
 - Attempts to address how the non-lexical channel affects expectations when the lexical channel is uninformative.
 
