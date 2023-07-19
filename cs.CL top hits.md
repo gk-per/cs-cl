@@ -23,8 +23,9 @@ https://arxiv.org/abs/2307.03534 - # Quantifying the perceptual value of lexical
 - Attempts to address how the non-lexical channel affects expectations when the lexical channel is uninformative.
 
 https://arxiv.org/abs/2306.17439 - # Provable Robust Watermarking for AI-Generated Text
-- Product opportunity?
 
 https://arxiv.org/abs/2307.07421 - # Sumformer: A Linear-Complexity Alternative to Self-Attention for Speech Recognition
 
 https://arxiv.org/abs/2307.06708 - # To share or not to share: What risks would laypeople accept to give sensitive data to differentially-private NLP systems?
+
+https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/ - # Llama 2: Open Foundation and Fine-Tuned Chat Models
